@@ -6,7 +6,7 @@
 
 2.MVVM
 
-3.Viewbinding
+3.Viewbinding https://github.com/meniman98/Android-Quad-Solutions-Trivia
 
 4.Navigation
 
